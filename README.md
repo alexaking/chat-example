@@ -8,7 +8,7 @@ Please refer to it to learn how to run this application.
 
 You can also spin up a free Heroku dyno to test it out:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/socketio/chat-example)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/alexaking/chat-example)
 
 Or run it on [Repl.it](https://repl.it/):
 
